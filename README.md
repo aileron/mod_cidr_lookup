@@ -1,6 +1,4 @@
 
-<script type='text/javascript' src='http://growbutton.com/javascripts/button.js?apikey=2294eb40-aaad-012e-ce3b-34ef8b105c40&shape=rectangle'></script>script> 
-
 モバイルサイト作成の際に、IPアドレスによる振り分けを行う目的の為に作成しました
 
 * summary
